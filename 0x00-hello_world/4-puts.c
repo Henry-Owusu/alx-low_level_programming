@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - Write a C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line .
+ * main - A program that prints a line with puts function
+ * return - 0 (success)
 */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return (0); /* returns */
+return (0);
 }
