@@ -1,0 +1,3 @@
+#!/bin/bash
+# Generate assembly code
+gcc -S -masm=intel $CFILE
